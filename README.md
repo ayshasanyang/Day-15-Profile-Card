@@ -17,15 +17,22 @@ This project showcases a **beautiful profile card** built with **HTML & CSS**, f
 ---
 # Demo page
 
-Click [Here](https://ayshasanyang.github.io/Day-12-Countdown-to-Portfolio-Launch/) to view the page
+Click [Here](https://ayshasanyang.github.io/Day-15-Profile-Card/) to view the page
 
 ## 🚀 How to Run
 1. Download or clone the repository
 ```bash
-git clone https://github.com/ayshasanyang/Day-12-Countdown-to-Portfolio-Launch.git
+git clone https://github.com/ayshasanyang/Day-15-Profile-Card.git
 ```
 2. Navigate to the project folder.
 3. Open the project files in your vscode or any code editor of your choice
 4. Open the `index.html` file in your web browser.
 
 ---
+
+## 📸 Preview
+![Profile Card](img/profile-card.png) 
+
+---
+
+Made with ❤️ by [AYSHA] 🚀
